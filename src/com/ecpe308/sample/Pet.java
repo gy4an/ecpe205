@@ -4,6 +4,10 @@ public class Pet {
     public String name, breed; //persian, labrador, golden retriever
     public String pet_type;  //cat/dog
 
+    public String gender; //male/female
+
+    public String color; //black/white
+
     public String getName(){
         return name;
     }
